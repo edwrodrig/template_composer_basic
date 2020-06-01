@@ -1,7 +1,7 @@
 #!/bin/sh
 set -x
 rm -rf tmp_template;
-wget https://raw.githubusercontent.com/edwrodrig/template_composer_basic/master/temple.phar;
+wget https://github.com/edwrodrig/temple_core/releases/download/0.1.0/temple_core.phar.phar -O temple.phar;
 git clone --single-branch https://github.com/edwrodrig/template_composer_basic.git -b template tmp_template;
 php temple.phar $1 $2 tmp_template $2;
 rm -rf tmp_template;
