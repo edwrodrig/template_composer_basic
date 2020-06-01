@@ -9,7 +9,7 @@ Biblioteca básica de composer
 
 ##Instalación
 ```
-curl -s https://raw.githubusercontent.com/edwrodrig/template_composer_basic/master/scripts/composer_basic | bash -s company project
+curl -s https://raw.githubusercontent.com/edwrodrig/template_composer_basic/master/install | bash -s company project
 ```
 
 ## Información de mi máquina de desarrollo
