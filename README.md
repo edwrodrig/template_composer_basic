@@ -8,7 +8,7 @@ Biblioteca básica de composer
 [![Code Climate](https://codeclimate.com/github/edwrodrig/template_composer_basic/badges/gpa.svg)](https://codeclimate.com/github/edwrodrig/template_composer_basic)
 ![Hecho en Chile](https://img.shields.io/badge/country-Chile-red)
 
-##Instalación
+## Instalación
 ```
 curl -s https://raw.githubusercontent.com/edwrodrig/template_composer_basic/master/install | bash -s company project
 ```
