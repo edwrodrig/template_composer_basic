@@ -19,7 +19,7 @@ composer require tpl_company_tpl/tpl_project_tpl
 ```
 
 ## Información de mi máquina de desarrollo
-Salida de [system_info.sh](https://github.com/edwrodrig/hapi_core/blob/master/scripts/system_info.sh)
+Salida de [system_info.sh](https://github.com/tpl_company_tpl/tpl_project_tpl/blob/master/scripts/system_info.sh)
 ```
   Operating System: Ubuntu 20.04 LTS
             Kernel: Linux 5.4.0-31-generic
