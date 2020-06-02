@@ -9,8 +9,9 @@ Biblioteca básica de composer
 ![Hecho en Chile](https://img.shields.io/badge/country-Chile-red)
 
 ## Instalación
-```
-curl -s https://raw.githubusercontent.com/edwrodrig/template_composer_basic/master/install | bash -s company project
+```shell
+curl -s https://raw.githubusercontent.com/edwrodrig/template_composer_basic/master/install | \
+bash -s company project
 ```
 
 ## Información de mi máquina de desarrollo
