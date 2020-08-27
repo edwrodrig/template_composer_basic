@@ -24,7 +24,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "test\\tpl_company_tpl\\tpl_project_tpl\\": "tests/"
+      "test\\tpl_company_tpl\\tpl_project_tpl\\": "test/"
     }
   },
   "archive": {
@@ -33,7 +33,7 @@
       "/.idea",
       "/examples",
       "/scripts",
-      "/tests",
+      "/test",
       "/.gitignore",
       "/.phpunit.result.cache",
       "/phpunit.xml.dist",
